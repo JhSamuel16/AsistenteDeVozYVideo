@@ -1,0 +1,14 @@
+*EndPoint Post*
+https://api.d-id.com/talks
+
+*Autorización*
+Basic API_KEY_DE_D-ID
+
+*Cuerpo*
+{
+    "script": {
+        "type": "text",
+        "input": "Hola yo soy tu asistente virtual y estoy aquí para ayudarte en lo que necesites"
+    },
+    "source_url": "https://img.freepik.com/foto-gratis/hombre-joven-traje-manteniendo-manos-cruzadas-mirando-confiado_176474-10863.jpg"
+}
